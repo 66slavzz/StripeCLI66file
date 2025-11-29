@@ -28,3 +28,6 @@ Supports Stripe API 2025-11-17.clover – fully up to date as of November 2025.
 git clone https://github.com/66slavzz/StripeCLI66file.git
 cd StripeCLI66file
 pip install stripe>=12.0.0
+
+Quick Start
+python main.py
