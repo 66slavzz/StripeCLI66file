@@ -31,3 +31,5 @@ pip install stripe>=12.0.0
 
 Quick Start
 python main.py
+
+You will be prompted for your Stripe secret key (sk_test_... or sk_live_...).
