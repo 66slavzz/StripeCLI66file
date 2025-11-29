@@ -1,5 +1,5 @@
 # StripeCLI66file
-payment processer ; apple pay method 
+payment processer ; apple pay method; stripe ; cc payment processer 
 
 # StripeCLI66file
 
